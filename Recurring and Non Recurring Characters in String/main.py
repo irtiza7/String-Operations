@@ -36,7 +36,7 @@ print(findRecurringChar(string))
 #             return character
 
 
-# string2 = "Noor"
+# string2 = "book"
 
 # print(f"Recurring Character: {findNonRecurringChar(string2)}")
 
